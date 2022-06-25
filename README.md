@@ -1,6 +1,6 @@
 # Network Synthesis under Delay Constraints: The Power of Network Calculus Differentiability
 
-This repository contains the dataset used for the paper _"Network Synthesis under Delay Constraints: The Power of Network Calculus Differentiability"_ publish at the [41th IEEE International Conference on Computer Communications (INFOCOM 2022)](http://infocom2022.ieee-infocom.org/). We refer to the paper for a full explanation of the methodology used for generating the dataset.
+This repository contains the dataset used for the paper [_"Network Synthesis under Delay Constraints: The Power of Network Calculus Differentiability"_](https://doi.org/10.1109/INFOCOM48880.2022.9796777) published at the [41th IEEE International Conference on Computer Communications (INFOCOM 2022)](http://infocom2022.ieee-infocom.org/). We refer to the paper for a full explanation of the methodology used for generating the dataset.
 
 
 ## Information
