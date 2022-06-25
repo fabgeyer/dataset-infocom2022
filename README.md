@@ -35,6 +35,7 @@ If you use this dataset for your research, please include the following referenc
 	booktitle = {Proceedings of the 41th IEEE International Conference on Computer Communications (INFOCOM)},
 	year      = {2022},
 	month     = may,
+	doi       = {10.1109/INFOCOM48880.2022.9796777},
 }
 ```
 
